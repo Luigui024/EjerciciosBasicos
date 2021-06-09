@@ -1,4 +1,4 @@
-#Numero Menor y Mayor (09-06)
+#Numero Menor y Mayor (09-06-2021)
 cantidadNumeros = int(input('\nDigite la cantidad de números: '))
 numeros=[]
 print('')
