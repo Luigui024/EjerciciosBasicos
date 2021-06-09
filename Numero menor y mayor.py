@@ -1,4 +1,4 @@
-#Numero Menor y Mayor
+#Numero Menor y Mayor 
 cantidadNumeros = int(input('\nDigite la cantidad de números: '))
 numeros=[]
 print('')
